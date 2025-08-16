@@ -4,8 +4,8 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 ## Demo
 
-- User Panel: [https://food-delivery-frontend-s2l9.onrender.com/](https://app-food-tomato.netlify.app/)
-- Admin Panel: [https://food-delivery-admin-wrme.onrender.com/](https://food-delivery-admin-wrme.onrender.com/)
+- User Panel: [https://food-delivery-user.com/](https://app-food-tomato.netlify.app/)
+- Admin Panel: [https://food-delivery-admin.com/](https://food-delivery-admin-wrme.onrender.com/)
 
 ## Features
 
